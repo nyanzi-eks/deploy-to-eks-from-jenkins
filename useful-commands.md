@@ -1,4 +1,4 @@
-### These commands are used in the bootcamp AWS CLI lectures
+### These commands are used in the Deploy to EKS from Jenkins lecture
 
 ##### Install kubectl on Jenkins server
  
